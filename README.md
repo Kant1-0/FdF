@@ -13,7 +13,6 @@ It will output thanks to the use of the graphic library: minilibx a 3D wireframe
 0 0  0  0 0<br>
 
 
-
 ## Bonus
 * Linear interpolation between two given colors to raytrace a gradient line
 * Handle Hex color formating (with short format 0,0xff00 = 0,0x00ff00)
@@ -21,3 +20,6 @@ It will output thanks to the use of the graphic library: minilibx a 3D wireframe
 * 5 key will reset the view
 * Dynamic window of creating according to the size of the map
 * Code basically made to handle different image / expose at the same time
+
+## Preview
+![Preview](/preview-fdf.jpg)
